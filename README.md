@@ -74,7 +74,7 @@ This command will install the typical packages most useful with
 HoloViews, though HoloViews itself depends only on
 [Numpy](https://numpy.org) [Pandas](https://pandas.pydata.org) and [Param](https://param.holoviz.org).
 Additional installation and configuration options are described in the
-[user guide](https://holoviews.org/user_guide/Installing_and_Configuring.html).
+[installation guide](https://holoviews.org/install.html).
 
 You can also clone holoviews directly from GitHub and install it with:
 
